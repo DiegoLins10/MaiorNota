@@ -36,7 +36,7 @@ namespace MaiorNota
                 }
             }
 
-            Console.WriteLine("A maior nota foi " + maiorNota);
+            Console.WriteLine("A maior nota foi " + maiorNota + " e foi do aluno " + NomeMaiorNota);
 
         }
     }
